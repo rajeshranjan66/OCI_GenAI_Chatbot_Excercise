@@ -1,8 +1,12 @@
                 *****************Update is still in-progress***************
-This chatbot will answer your questions related to TOGAF10 and based upon 550 page documentation about TOGAF standard stored in Chroma DB vector database and LLM model.
+This chatbot will answer your questions related to TOGAF10 and based upon 550 page documentation about TOGAF standard stored in Chroma DB vector database and LLM model. Implemention is using Oracle Cloud Infrastructure.
 
-To learn more about OCI genAI services ,refer to this link. OCI GenAI Proessional certiication is free until July -2024 with 2 free attempt.
-Found this course very useful for certificaiton as well as learning RAG, LLM architecture , Encoding & decoding etc.
+Oracle Cloud Infrastructure (OCI) Generative AI is a fully managed service that provides a set of state-of-the-art, customizable large language models (LLMs) that cover a wide range of use cases, and which is available through a single API. Using the OCI Generative AI service you can access ready-to-use pretrained models, or create and host your own fine-tuned custom models based on your own data on dedicated AI clusters.
+
+To learn more about OCI genAI services ,refer to this link - https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm and https://docs.oracle.com/en-us/iaas/api/#/en/generative-ai/20231130/
+
+OCI GenAI Proessional certiication is free until July -2024 with 2 free attempt.
+Found this course very useful for certificaiton as well as learning RAG, LLM architecture , Encoding & decoding etc. 
 https://blogs.oracle.com/oracleuniversity/post/announcing-oci-2024-generative-ai-professional-certification-and-course
 
 It uses -
