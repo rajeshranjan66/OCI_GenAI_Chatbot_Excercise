@@ -1,3 +1,4 @@
+*****************Update is still in-progress***************
 This chatbot will answer your questions related to TOGAF10 and based upon 550 page documentation available at open group website.
 
 To learn more about OCI genAI services ,refer to this link. OCI GenAI Proessional certiication is free until July -2024 with 2 free attempt.
