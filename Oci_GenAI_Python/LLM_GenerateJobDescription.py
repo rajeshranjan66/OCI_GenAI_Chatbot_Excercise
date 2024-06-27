@@ -41,7 +41,7 @@ chat_request.frequency_penalty = 1
 chat_request.top_p = 0.75
 chat_request.top_k = 357
 
-chat_detail.serving_mode = oci.generative_ai_inference.models.OnDemandServingMode(model_id="<<>>>>")
+chat_detail.serving_mode = oci.generative_ai_inference.models.OnDemandServingMode(model_id="<<Model id>>>>")
 chat_detail.chat_request = chat_request
 chat_detail.compartment_id = compartment_id
 chat_response = generative_ai_inference_client.chat(chat_detail)
