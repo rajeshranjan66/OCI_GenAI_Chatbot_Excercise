@@ -13,12 +13,13 @@ It uses -
                    UI allows you to quickly filter runs based on error percentage, latency, date, or even by text content using natural language
                    This repo contains project for chatbot implementation using OCI Gen AI services, StreamLit, LangChain framework, Chroma Vector DB and Python
 - RAG - Used for Augmeting prompt with specific context which will be input to LLM.
-- Chroma DB - Its vector database, stores TOGAF PDF in chunks. when query received , get the relevant documents from vector DB and insert into prompt.
+- Chroma DB - Its vector database, stores TOGAF PDF in chunks. when query received , get the relevant documents from vector DB and insert into prompt. Embedding model used is 
+  cohere.embed-english-v3.0
   
 This repo consits of 3 python files and pdf-doc folder. 
-demo-chroma-create.py => 
-demo-ou-chatbot-chroma-final.py ==>
-LLM_GenerateJobDescription.py ==>
+demo-chroma-create.py
+demo-ou-chatbot-chroma-final.py
+LLM_GenerateJobDescription.py
 
 pdf-docs folder containing PDF which will be loaded into Chroma Vector DB and provide additonal context to LLM model.
 If you face any issue while executing commands for chatbot deployment , can refer to Command execution output file in repo.
