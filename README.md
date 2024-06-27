@@ -21,5 +21,5 @@ demo-chroma-create.py
 demo-ou-chatbot-chroma-final.py
 LLM_GenerateJobDescription.py
 
-pdf-docs folder containing PDF which will be loaded into Chroma Vector DB and provide additonal context to LLM model.
+pdf-docs folder containing PDF which will be loaded into Chroma Vector DB as embeddings and provide additonal context to LLM model.
 If you face any issue while executing commands for chatbot deployment , can refer to Command execution output file in repo.
