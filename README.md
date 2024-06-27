@@ -27,3 +27,8 @@ LLM_GenerateJobDescription.py
 
 pdf-docs folder containing PDF which will be loaded into Chroma Vector DB as embeddings and provide additonal context to LLM model.
 If you face any issue while executing commands for chatbot deployment , can refer to Command execution output file in repo.
+
+
+References -
+https://github.com/run-llama/llama_index/blob/main/docs/docs/examples/llm/oci_genai.ipynb
+https://github.com/run-llama/llama_index/blob/main/docs/docs/examples/embeddings/oci_genai.ipynb
