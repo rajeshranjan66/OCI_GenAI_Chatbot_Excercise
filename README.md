@@ -19,8 +19,7 @@ It uses -
                    UI allows you to quickly filter runs based on error percentage, latency, date, or even by text content using natural language
                    
 - RAG - Used for Augmeting prompt with specific context which will be input to LLM.
-- Chroma DB - Its vector database, stores TOGAF PDF in chunks. when query received , get the relevant documents from vector DB and insert into prompt. Embedding model used is 
-  cohere.embed-english-v3.0
+- Chroma DB - Its vector database, stores TOGAF PDF in terms of embedddings. when query received , get the relevant documents from vector DB and insert into prompt. Embedding model used is cohere.embed-english-v3.0
   
 This repo consits of 3 python files and pdf-doc folder. 
 demo-chroma-create.py
