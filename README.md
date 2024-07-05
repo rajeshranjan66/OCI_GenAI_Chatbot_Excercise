@@ -39,30 +39,34 @@ https://python.langchain.com/v0.2/docs/integrations/llms/oci_generative_ai/
 
 Assumption - you have OCI account and created Oracle VM and setup public and priate keys in your account. all the commands shown on screenshot is also avaialble in file https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/master/Oci_GenAI_Python/Command%20execution%20output
 
-***** ensure you have downloaded keys from your OCI account for accessing Oracle Instance (VM) on you local machine ( laptop) *****
+** ensure you have downloaded keys from your OCI account for accessing Oracle Instance (VM) on you local machine ( laptop) **
 
 <img width="670" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/c73f6bc2-3545-4678-ad1a-79688130b2fd">
 
-***** ssh into oracle VM *****
+** ssh into oracle VM **
 
 <img width="768" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/d71493b3-d70c-4b00-ba6d-7e7884c1f450">
 
-***** create required folders where code python files and other required fileswill be copied and uogarde ubuntu packages**
- *****
+** create required folders where code python files and other required fileswill be copied and uogarde ubuntu packages**
+ 
 
 <img width="781" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/26962c1a-520a-4ef5-b1b7-8fcbe363909e">
 
-***** install Python on VM *****
+** install Python on VM **
 
 <img width="490" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/7b51adaa-5bf6-4c47-9d27-93536933a27b">
 
-***** install virtual environment *****
+** install virtual environment **
 
 <img width="1035" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/dcb57c3c-391e-4d88-8a53-7f50f302cfaf">
 <img width="1141" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/c60da1b8-bf4e-4d45-96b9-8b98612f7d25">
+<img width="807" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/2ed21017-fb85-4d03-a0f6-c9d9c7004bb3">
 
+**Create virtual env and activate **
+<img width="1075" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/dcd031c0-56e3-46ec-92a7-3565ed40b39b">
 
+**copy python code for creating Choma DB and chatbot into oracle VM and TOGAF PDF on OCI VM , this command you will be executing on laptop  **
 
-
+<img width="1468" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/11862855-2a3e-4539-b56f-2065a93cd678">
 
 
