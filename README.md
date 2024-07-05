@@ -39,7 +39,6 @@ Assumption - you have OCI account and created Oracle VM and setup public and pri
 
 ************************* ensure you have thenkeys downloaded on you local machine ( laptop) ***********************
 
-(base) Rajeshs-MacBook-Pro:Oracle_Gen_AI rajeshranjan$ cd Links_info_POC/Latest_VM_Keys/
-(base) Rajeshs-MacBook-Pro:Latest_VM_Keys rajeshranjan$ ls
-ubuntu-vm-priv.key  ubuntu-vm-public.key
+<img width="670" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/c73f6bc2-3545-4678-ad1a-79688130b2fd">
+
 
