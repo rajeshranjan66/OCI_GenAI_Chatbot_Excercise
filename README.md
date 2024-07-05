@@ -3,7 +3,9 @@ This chatbot will answer your questions related to TOGAF10 and based upon 550 pa
 Oracle Cloud Infrastructure (OCI) Generative AI is a fully managed service that provides a set of state-of-the-art, customizable large language models (LLMs) that cover a wide range of use cases, and which is available through a single API. Using the OCI Generative AI service you can access ready-to-use pretrained models, or create and host your own fine-tuned custom models based on your own data on dedicated AI clusters.
 
 To learn more about OCI genAI services ,refer to this link - 
-https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm and 
+https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm 
+
+
 https://docs.oracle.com/en-us/iaas/api/#/en/generative-ai/20231130/
 
 OCI GenAI Proessional certiication is free until July -2024 with 2 free attempt.
@@ -32,10 +34,13 @@ If you face any issue while executing commands for chatbot deployment , can refe
 
 References -
 https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm
+
 https://github.com/langchain-ai/langchain/blob/master/README.md
+
 https://python.langchain.com/v0.2/docs/integrations/llms/oci_generative_ai/
 
-****Below are the steps on how to deploy chatbot on oracle VM** **This will incur cost for using Oracle VM and hiting Oracle Gen AI services**
+
+**Below are the steps for deploying chatbot on oracle VM. This will incur cost for using Oracle VM and hiting Oracle Gen AI services**
 
 Assumption - you have OCI account and created Oracle VM and setup public and priate keys in your account. all the commands shown on screenshot is also avaialble in file https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/master/Oci_GenAI_Python/Command%20execution%20output
 
