@@ -91,7 +91,6 @@ Install ChromaDB
 <img width="1463" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/a4cea1d9-0642-4be7-ac8d-20826c41f866">
 
 install streamlit
-
 <img width="1276" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/95425973-3327-4e24-8e88-4bbbcb0fc2a5">
 
 install python-multipart
