@@ -35,6 +35,8 @@ https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm
 https://github.com/langchain-ai/langchain/blob/master/README.md
 https://python.langchain.com/v0.2/docs/integrations/llms/oci_generative_ai/
 
+****Below are the steps on how to deploy chatbot on oracle VM** **This will incur cost for using Oracle VM and hiting Oracle Gen AI services**
+
 Assumption - you have OCI account and created Oracle VM and setup public and priate keys in your account. all the commands shown on screenshot is also avaialble in file https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/master/Oci_GenAI_Python/Command%20execution%20output
 
 ***** ensure you have downloaded keys from your OCI account for accessing Oracle Instance (VM) on you local machine ( laptop) *****
@@ -45,4 +47,9 @@ Assumption - you have OCI account and created Oracle VM and setup public and pri
 
 <img width="768" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/d71493b3-d70c-4b00-ba6d-7e7884c1f450">
 
+***** create required folders where code python files and other required fileswill be copied and update the VM to upgarde existing packages *****
+
+<img width="781" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/26962c1a-520a-4ef5-b1b7-8fcbe363909e">
+
+***** ssh into oracle VM *****
 
