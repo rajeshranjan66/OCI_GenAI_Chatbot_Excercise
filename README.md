@@ -38,6 +38,7 @@ https://python.langchain.com/v0.2/docs/integrations/llms/oci_generative_ai/
 Assumption - you have OCI account and created Oracle VM and setup public and priate keys in your account.
 
 ************************* ensure you have thenkeys downloaded on you local machine ( laptop) ***********************
+
 (base) Rajeshs-MacBook-Pro:Oracle_Gen_AI rajeshranjan$ cd Links_info_POC/Latest_VM_Keys/
 (base) Rajeshs-MacBook-Pro:Latest_VM_Keys rajeshranjan$ ls
 ubuntu-vm-priv.key  ubuntu-vm-public.key
