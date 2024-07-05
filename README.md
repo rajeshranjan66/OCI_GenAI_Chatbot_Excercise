@@ -90,6 +90,23 @@ Install ChromaDB
 <img width="961" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/0599de3b-84fc-4fe7-9c73-f0fb6a077284">
 <img width="1463" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/a4cea1d9-0642-4be7-ac8d-20826c41f866">
 
+install streamlit
+
+<img width="1276" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/95425973-3327-4e24-8e88-4bbbcb0fc2a5">
+
+install python-multipart
+<img width="809" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/b34b8d2a-9530-45fe-a4ed-6b1534931490">
+
+install pydantic
+<img width="920" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/812949e1-6e6f-4a0f-90b2-cccffa549903">
+
+install pypdf
+<img width="861" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/0d111834-20e4-484c-ba66-abdf1e435ec6">
+
+** Setup firewall on OCI VM to open port, OCI VM to allow port 8501 in security list of subset in which VM is created **
+<img width="963" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/b18c6657-e306-4a9a-b304-6bb4b5fb12db">
+
+
 
 
 
