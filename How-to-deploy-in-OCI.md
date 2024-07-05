@@ -154,11 +154,41 @@ key_file=~/.oci/oci_api_key.pem
 <img width="843" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/d570a150-3a7b-4621-9e70-e3ee87a26241">
 
 
-hit below URL -
+**hit below URL in browser  - **
 http://<public IP address of VM>>:8501
 
+<img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/dcf1e4e3-52a4-4888-8589-d75eb71eb443">
+
+<img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/3921094a-e717-4e6e-ae48-4b077b50f974">
+
+**Negative scenario - **
+
+<img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/f85c7faa-b1d0-45cb-95e2-0c83d0174dda">
+
+Monitoring, tracing and debugging  with Langsmith => You need to configure you API key of langsmith in chatbot python code.
+
+<img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/b56674ab-e529-44b6-92b0-ba288eb55c20">
+
+<img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/5844af4b-456d-4587-b7bd-32b72eb455d0">
+
+<img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/fdd82a65-7a13-48e6-833e-6b8757c5ffd8">
+
+<img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/b10c0f28-cf8d-4872-8ff5-5df63096678b">
 
 
+<img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/00e0f989-c4cb-4175-8feb-121efbede2cb">
+
+<img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/e664db8b-14b1-4d8b-a175-d4dc7f185cdd">
+
+<img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/bb254927-649d-40b3-a0cc-d873feb33226">
+
+<img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/ce780909-7554-4b2c-9a89-53797fcd3e4d">
+
+
+
+
+
+                                ************************ End of th file ********************************************
 
 
 
