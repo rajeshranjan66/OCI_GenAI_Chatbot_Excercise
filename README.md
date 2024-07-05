@@ -94,6 +94,7 @@ install streamlit
 <img width="1276" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/95425973-3327-4e24-8e88-4bbbcb0fc2a5">
 
 install python-multipart
+
 <img width="809" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/b34b8d2a-9530-45fe-a4ed-6b1534931490">
 
 install pydantic
