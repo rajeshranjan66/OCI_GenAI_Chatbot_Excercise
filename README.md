@@ -69,4 +69,15 @@ Assumption - you have OCI account and created Oracle VM and setup public and pri
 
 <img width="1468" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/11862855-2a3e-4539-b56f-2065a93cd678">
 
+<img width="707" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/1bb46f38-f17b-44f9-9e85-b449779440ef">
+
+** Install necessary python packages on OCI VM **
+
+
+<img width="1392" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/a2ac734c-0f24-408a-bfe0-902865ac48ed">
+<img width="1363" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/6782794c-2082-4106-b99b-93c28c636229">
+<img width="1441" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/ccce1160-b69d-44c8-b453-12d9bce63c31">
+
+
+
 
