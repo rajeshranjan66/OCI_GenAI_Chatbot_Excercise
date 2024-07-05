@@ -4,7 +4,8 @@ If this region is not available in your OCI account , then you need raised limit
 
 1.	Login into OCI console navigate to instance menu
 
-         <img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/8af1547e-4c9d-4a51-a783-eaa9e13371f2">
+   <img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/f6539914-53df-478b-954a-74bd1178a831">
+
 
 2.	Click on Create Instance button. Give some meaningful name.
 
@@ -12,9 +13,9 @@ If this region is not available in your OCI account , then you need raised limit
 
 3.	Under “Image and shape”, click on “Change Image” and select ubuntu and image name as “Canonical Ubuntu 22.04” and click “Select Image”
 
-        <img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/482a7d43-d3d5-48f8-a7d0-b48df8c8a0c1">
+   <img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/482a7d43-d3d5-48f8-a7d0-b48df8c8a0c1">
 
-        <img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/920208b7-c1ea-4db4-8597-0449a8d1646c">
+<img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/920208b7-c1ea-4db4-8597-0449a8d1646c">
 
 4.	Click on “Change shape”, select shape series – AMD , shape name -VM.Standard.E4.Flex
 
