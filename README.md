@@ -101,9 +101,12 @@ install pydantic
 <img width="920" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/812949e1-6e6f-4a0f-90b2-cccffa549903">
 
 install pypdf
+
+
 <img width="861" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/0d111834-20e4-484c-ba66-abdf1e435ec6">
 
 ** Setup firewall on OCI VM to open port, OCI VM to allow port 8501 in security list of subset in which VM is created **
+
 <img width="963" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/b18c6657-e306-4a9a-b304-6bb4b5fb12db">
 
 
