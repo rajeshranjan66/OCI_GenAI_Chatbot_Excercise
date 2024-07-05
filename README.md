@@ -134,11 +134,17 @@ key_file=~/.oci/oci_api_key.pem
 
 ** execute demo-chroma-create.py  **
 
+<img width="1446" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/7d0ceadc-3686-4f5a-9f29-e011b961cd44">
 
 
+** start chromaDB in backgroud and verify  **
+
+<img width="989" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/303b54a9-df32-43a7-b817-8c8b3937bbec">
 
 
+** execute chatbot python code usin streamlit  **
 
+<img width="843" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/d570a150-3a7b-4621-9e70-e3ee87a26241">
 
 
 
