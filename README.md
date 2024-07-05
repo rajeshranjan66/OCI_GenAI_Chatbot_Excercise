@@ -12,7 +12,7 @@ OCI GenAI Proessional certiication is free until July -2024 with 2 free attempt.
 Found this course very useful for certificaiton as well as learning RAG, LLM architecture , Encoding & decoding etc. 
 https://blogs.oracle.com/oracleuniversity/post/announcing-oci-2024-generative-ai-professional-certification-and-course
 
-It uses -
+Details of the Chat bot setup and deployment-
 - OCI Gen AI API to access pre-trained LLM Model.
 - Model name - cohere.embed-english-v3.0
 - Langchan_community - LangChain is an open source modular framework for creating applications from large language models (LLMs). You can use LangChain to build chatbots, analyze text, perform Q&A from structured data, interact with APIs, and create applications that use generative AI.
