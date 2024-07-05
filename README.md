@@ -47,9 +47,22 @@ Assumption - you have OCI account and created Oracle VM and setup public and pri
 
 <img width="768" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/d71493b3-d70c-4b00-ba6d-7e7884c1f450">
 
-***** create required folders where code python files and other required fileswill be copied and update the VM to upgarde existing packages *****
+***** create required folders where code python files and other required fileswill be copied and uogarde ubuntu packages**
+ *****
 
 <img width="781" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/26962c1a-520a-4ef5-b1b7-8fcbe363909e">
 
-***** ssh into oracle VM *****
+***** install Python on VM *****
+
+<img width="490" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/7b51adaa-5bf6-4c47-9d27-93536933a27b">
+
+***** install virtual environment *****
+
+<img width="1035" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/dcb57c3c-391e-4d88-8a53-7f50f302cfaf">
+<img width="1141" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/c60da1b8-bf4e-4d45-96b9-8b98612f7d25">
+
+
+
+
+
 
