@@ -105,9 +105,38 @@ install pypdf
 
 <img width="861" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/0d111834-20e4-484c-ba66-abdf1e435ec6">
 
+
+install langchain_community
+
+<img width="1342" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/4ec60c73-55ff-444e-8d39-4db86b4545be">
+
+
 ** Setup firewall on OCI VM to open port, OCI VM to allow port 8501 in security list of subset in which VM is created **
 
-<img width="963" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/b18c6657-e306-4a9a-b304-6bb4b5fb12db">
+<img width="895" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/69e7d487-df38-45c6-941c-0707ff7e642d">
+
+** Copy your OCI configuration file from local machine to Oracle VM, this file will have info related to OCI account , will be used to call OCI Gen AI services from python **
+
+<img width="1454" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/982c0f18-feec-428f-8110-aab3c9f60ecd">
+
+**content of config file.**
+(base) Rajeshs-MacBook-Pro:.oci rajeshranjan$ cat config
+[DEFAULT]
+user=ocid1.user.oc1..XXXXXXXXXXXX
+fingerprint=fd:af:db:0XXXXXXXXXXXXXXXX
+tenancy=ocid1.tenancy.oc1..XXXXXXXXX
+region=us-chicago-1
+key_file=~/.oci/oci_api_key.pem
+
+** Below is how directory structure looks like  **
+<img width="730" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/c337cbc4-b86f-411c-acd7-20d36378fc20">
+
+
+** execute demo-chroma-create.py  **
+
+
+
+
 
 
 
