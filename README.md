@@ -73,10 +73,26 @@ Assumption - you have OCI account and created Oracle VM and setup public and pri
 
 ** Install necessary python packages on OCI VM **
 
-
+install oci
 <img width="1392" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/a2ac734c-0f24-408a-bfe0-902865ac48ed">
-<img width="1363" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/6782794c-2082-4106-b99b-93c28c636229">
-<img width="1441" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/ccce1160-b69d-44c8-b453-12d9bce63c31">
+
+install oracle-ads
+<img width="992" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/2f2a527a-98d1-45af-9d2c-f265e7abca44">
+<img width="1454" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/afc6b11f-d821-4ead-b0ba-b0f948dd1a31">
+
+Install langchain
+
+<img width="1020" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/089dd3a5-f71e-4383-a957-16ffffa921ba">
+<img width="1443" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/05a7f573-510e-43dc-a1d4-f720d503f381">
+
+Install ChromaDB 
+
+<img width="961" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/0599de3b-84fc-4fe7-9c73-f0fb6a077284">
+<img width="1463" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/a4cea1d9-0642-4be7-ac8d-20826c41f866">
+
+
+
+
 
 
 
