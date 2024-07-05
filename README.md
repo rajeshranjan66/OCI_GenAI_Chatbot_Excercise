@@ -35,3 +35,6 @@ https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm
 https://github.com/langchain-ai/langchain/blob/master/README.md
 https://python.langchain.com/v0.2/docs/integrations/llms/oci_generative_ai/
 
+  Assumption - you have OCI account and created Oracle VM and setup public and priate keys in your account.
+
+   
