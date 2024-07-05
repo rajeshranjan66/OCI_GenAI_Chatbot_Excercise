@@ -37,7 +37,7 @@ https://python.langchain.com/v0.2/docs/integrations/llms/oci_generative_ai/
 
 Assumption - you have OCI account and created Oracle VM and setup public and priate keys in your account.
 
-************************* ensure you have thenkeys downloaded on you local machine ( laptop) ***********************
+************************* ensure you have downloaded keys from your OCI account for accessing Oracle Instance (VM) on you local machine ( laptop) ***********************
 
 <img width="670" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/c73f6bc2-3545-4678-ad1a-79688130b2fd">
 
