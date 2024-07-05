@@ -146,7 +146,7 @@ key_file=~/.oci/oci_api_key.pem
 
 <img width="843" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/d570a150-3a7b-4621-9e70-e3ee87a26241">
 
-<img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/0891c331-260f-4379-a912-d27c1bacaddf">
+
 
 
 
