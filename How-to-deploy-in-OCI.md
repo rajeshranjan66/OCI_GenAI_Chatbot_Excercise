@@ -155,7 +155,7 @@ key_file=~/.oci/oci_api_key.pem
 
 
 **hit below URL in browser  - **
-http://<public IP address of VM>>:8501
+http://public IP of OCI VM:8501
 
 <img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/dcf1e4e3-52a4-4888-8589-d75eb71eb443">
 
