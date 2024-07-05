@@ -43,4 +43,3 @@ Assumption - you have OCI account and created Oracle VM and setup public and pri
 (base) Rajeshs-MacBook-Pro:Latest_VM_Keys rajeshranjan$ ls
 ubuntu-vm-priv.key  ubuntu-vm-public.key
 
-
