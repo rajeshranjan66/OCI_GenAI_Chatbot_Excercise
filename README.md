@@ -44,7 +44,8 @@ https://python.langchain.com/v0.2/docs/integrations/llms/oci_generative_ai/
 
 Assumption - you have OCI account and created Oracle VM and setup public and priate keys in your account. all the commands shown on screenshot is also avaialble in file https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/master/Oci_GenAI_Python/Command%20execution%20output
 
-** This deployment will need VM and OCI accuunt and Private key of OCI account. You may refer to below 
+** This deployment will need VM and OCI accuunt and Private key of VM from OCI account which is used to connect to VM. You may refer to below 
+
 **How to Create OCI config file.md**
 **How to create OCI VM.md** 
 
