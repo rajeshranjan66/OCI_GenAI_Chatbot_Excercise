@@ -39,3 +39,5 @@ If this region is not available in your OCI account , then you need raised limit
 
       <img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/bb83ce2e-b0c4-4328-af69-87bc5e7be671">
 
+  9. For security puposes, you can remove 22 and 8501 from 0.0.0.0/0 when you don't want to use chatbot so VM will not be accepting any traffic from internet
+
