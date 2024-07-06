@@ -202,9 +202,18 @@ Monitoring, tracing and debugging  with Langsmith => You need to configure you A
 
 <img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/184efcfe-f25b-4cba-91f0-eb0caa155db3">
 
-
+** Tracing logs for multiple choice question **
 
 <img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/81a5ffe3-9a15-44e7-a1cb-0f944805de21">
+
+
+<img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/e883ae14-abfa-47c5-ba54-0670321c9a40">
+
+
+<img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/174dd035-5ddf-49ed-83cc-a77c609adb25">
+
+
+
 
 
 
