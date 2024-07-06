@@ -25,11 +25,11 @@ If this region is not available in your OCI account , then you need raised limit
 
        <img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/3593ca75-ef72-49ab-8bd8-2fbde55fea22">
 
-7.	Under “Add ssh key”, click “Save Private Key” and save on your laptop with name ubuntu-vm-priv.key
+6.	Under “Add ssh key”, click “Save Private Key” and save on your laptop with name ubuntu-vm-priv.key
 
        <img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/2e22f0e8-e279-4c41-ad68-6d14ea650e63">
 
-8.	Click on “Create” button to create VM
+7.	Click on “Create” button to create VM
 
        <img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/39ab7e98-fac5-4fd2-9493-175a2946c001">
 
@@ -39,5 +39,5 @@ If this region is not available in your OCI account , then you need raised limit
 
       <img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/bb83ce2e-b0c4-4328-af69-87bc5e7be671">
 
-  9. For security puposes, you can remove 22 and 8501 from 0.0.0.0/0 when you don't want to use chatbot so VM will not be accepting any traffic from internet
+9. For security puposes, you can remove 22 and 8501 from 0.0.0.0/0 when you don't want to use chatbot so VM will not be accepting any traffic from internet
 
