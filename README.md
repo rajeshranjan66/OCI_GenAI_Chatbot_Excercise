@@ -48,7 +48,7 @@ https://python.langchain.com/v0.2/docs/integrations/llms/oci_generative_ai/
 
 **Below are the steps for deploying chatbot on oracle VM. This will incur cost for using Oracle VM and hiting Oracle Gen AI services**
 
-Assumption - you have OCI account and created Oracle VM and setup public and priate keys in your account. all the commands shown on screenshot is also avaialble in file https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/master/Oci_GenAI_Python/Command%20execution%20output
+Assumption - you have OCI account and Oracle VM and ownload private keys to connect to VM in your account. All the commands shown on screenshot is also avaialble in file https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/master/Oci_GenAI_Python/Command%20execution%20output
 
 ** This deployment will need VM and OCI accuunt and Private key of VM from OCI account which is used to connect to VM. You may refer to below 
 
@@ -61,7 +61,7 @@ Assumption - you have OCI account and created Oracle VM and setup public and pri
 
 <img width="768" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/d71493b3-d70c-4b00-ba6d-7e7884c1f450">
 
-** create required folders where code python files and other required fileswill be copied and uogarde ubuntu packages**
+** create required folders where code python code files and other required files will be copied and uppgrade ubuntu packages**
  
 
 <img width="781" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/26962c1a-520a-4ef5-b1b7-8fcbe363909e">
@@ -79,7 +79,7 @@ Assumption - you have OCI account and created Oracle VM and setup public and pri
 **Create virtual env and activate **
 <img width="1075" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/dcd031c0-56e3-46ec-92a7-3565ed40b39b">
 
-**copy python code for creating Choma DB and chatbot into oracle VM and TOGAF PDF on OCI VM , this command you will be executing on laptop  **
+**copy python code for creating Choma DB and chatbot into oracle VM and TOGAF PDF on OCI VM, you will be executing this on laptop  **
 
 <img width="1468" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/11862855-2a3e-4539-b56f-2065a93cd678">
 
@@ -88,9 +88,11 @@ Assumption - you have OCI account and created Oracle VM and setup public and pri
 ** Install necessary python packages on OCI VM **
 
 install oci
+
 <img width="1392" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/a2ac734c-0f24-408a-bfe0-902865ac48ed">
 
 install oracle-ads
+
 <img width="992" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/2f2a527a-98d1-45af-9d2c-f265e7abca44">
 <img width="1454" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/afc6b11f-d821-4ead-b0ba-b0f948dd1a31">
 
@@ -105,6 +107,7 @@ Install ChromaDB
 <img width="1463" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/a4cea1d9-0642-4be7-ac8d-20826c41f866">
 
 install streamlit
+
 <img width="1276" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/95425973-3327-4e24-8e88-4bbbcb0fc2a5">
 
 install python-multipart
@@ -112,6 +115,7 @@ install python-multipart
 <img width="809" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/b34b8d2a-9530-45fe-a4ed-6b1534931490">
 
 install pydantic
+
 <img width="920" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/812949e1-6e6f-4a0f-90b2-cccffa549903">
 
 install pypdf
@@ -143,6 +147,7 @@ region=us-chicago-1
 key_file=~/.oci/oci_api_key.pem
 
 ** Below is how directory structure looks like  **
+
 <img width="730" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/c337cbc4-b86f-411c-acd7-20d36378fc20">
 
 
@@ -211,7 +216,7 @@ Monitoring, tracing and debugging  with Langsmith => You need to configure you A
 
 
 
-                                ************************ End of th file ********************************************
+                                ************************ End of the file********************************************
 
 
 
