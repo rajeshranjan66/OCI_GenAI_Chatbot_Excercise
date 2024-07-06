@@ -33,8 +33,7 @@ If this region is not available in your OCI account , then you need raised limit
 
        <img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/39ab7e98-fac5-4fd2-9493-175a2946c001">
 
-      <img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/d5024683-56ad-447f-aa6a-3e208273680c">
-
+   
 8.    Just verify 8501 port is whitelisted in security list of the subnet.
 
       <img width="452" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/bb83ce2e-b0c4-4328-af69-87bc5e7be671">
