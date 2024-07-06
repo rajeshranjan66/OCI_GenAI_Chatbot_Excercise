@@ -1,6 +1,12 @@
-                                *****************Chatbot for TOGAF powered by OCI Services ***************
-This chatbot will answer your questions related to TOGAF10 and based upon 550 page documentation about TOGAF standard stored in terms of embeddings in Chroma DB vector database and using OCI provided API for LLM. 
-Oracle Cloud Infrastructure (OCI) Generative AI is a fully managed service that provides a set of state-of-the-art, customizable large language models (LLMs) that cover a wide range of use cases, and which is available through a single API. Using the OCI Generative AI service you can access ready-to-use pretrained models, or create and host your own fine-tuned custom models based on your own data on dedicated AI clusters.
+                      *****************Chatbot for TOGAF powered by OCI Services ***************
+                          
+This chatbot will answer your queries related to TOGAF10 concepts and based upon 550 page documentation about TOGAF standard 
+TOGAF related documents are stored in terms of embeddings in Chroma DB vector database and using OCI provided API for embdedding models.
+Oracle Cloud Infrastructure (OCI) Generative AI is a fully managed service that provides a set of state-of-the-art, 
+customizable large language models (LLMs) that cover a wide range of use cases, and which is available through a single API. 
+Using the OCI Generative AI service you can access ready-to-use pretrained models, or 
+create and host your own fine-tuned custom models based on your own data on dedicated AI clusters.
+
 
 To learn more about OCI genAI services ,refer to this link - 
 https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm 
