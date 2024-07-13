@@ -108,9 +108,9 @@ all traffic in security list is allowed only from public subnet CIDR.
 
 <img width="1277" alt="image" src="https://github.com/user-attachments/assets/1e791366-2430-497a-a89b-0f591a5a9be4">
 
-create another NSG named  "ForVM". Associate "forVM" NSG to VM where chatbot is running. This NSG "ForVM" will allow traffic to VM on port 8051 and 80 from NSG  "ForVM" of load balancer.
+create another NSG named  "ForVM". Associate "forVM" NSG to VM where chatbot is running. This NSG "ForVM" will allow traffic to VM on port 8051 from NSG  "ForVM" of load balancer.
 
-<img width="1309" alt="image" src="https://github.com/user-attachments/assets/47f22876-1225-4e37-9457-c803f7d245d7">
+<img width="1174" alt="image" src="https://github.com/user-attachments/assets/7e10d328-3145-40c7-8ebf-3aa321edd3c1">
 
 Now you can hit your domain or DNS -
 
