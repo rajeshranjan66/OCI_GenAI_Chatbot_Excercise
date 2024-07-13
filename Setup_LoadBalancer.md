@@ -85,10 +85,32 @@ Add Backend in Backend set in LB - IP addreess is private IP of instance created
 
 <img width="1283" alt="image" src="https://github.com/user-attachments/assets/9a6b5a86-5a68-4c16-b052-26f917af7cf0">
 
+Ignore 80 in below, seems UI not getting updated, Health check is also using 8501.
+
+<img width="1315" alt="image" src="https://github.com/user-attachments/assets/c99f8fdd-a529-4884-b648-e8b3ba9309b7">
+
 
 Now below is how LB looks like -
 
+<img width="1308" alt="image" src="https://github.com/user-attachments/assets/7fafe120-c51b-4875-9ead-96d85da98e9c">
+
+
 <img width="1250" alt="image" src="https://github.com/user-attachments/assets/9ff5ae53-66b4-4415-9bb1-444b57e85655">
+
+Once this done, add public IP of the LB in Zone created. [Refer this](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/456c829cc18d23e6a57f031c72787c1d4722100c/DNS_Management_OCI.md)
+
+Below is how security list looks like. 
+all traffic in security list is allowed only from public subnet CIDR.
+
+<img width="1277" alt="image" src="https://github.com/user-attachments/assets/1e791366-2430-497a-a89b-0f591a5a9be4">
+
+create another NSG named  "ForVM". Associate "forVM" NSG to VM where chatbot is running. This NSG "ForVM" will allow traffic to VM from NSG  "ForVM" of load balancer.
+
+<img width="1309" alt="image" src="https://github.com/user-attachments/assets/47f22876-1225-4e37-9457-c803f7d245d7">
+
+
+
+
 
 
 
