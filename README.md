@@ -10,7 +10,7 @@ create and host your own fine-tuned custom models based on your own data on dedi
 
 To learn more about OCI genAI services ,refer to this link - 
 
-[Oracle Generative AI Certification course] (https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm)
+[Oracle Generative AI Certification course](https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm)
 
 
 https://docs.oracle.com/en-us/iaas/api/#/en/generative-ai/20231130/
