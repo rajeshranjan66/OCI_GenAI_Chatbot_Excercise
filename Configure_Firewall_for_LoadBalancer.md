@@ -86,7 +86,6 @@ Click edit of last action, I want to show why error message I have configured. S
 <img width="1624" alt="image" src="https://github.com/user-attachments/assets/08ae7d9c-edbb-42d8-89fa-7a7462a00cb3">
 
 
-
 Below error message will appear when rate limit is breached.
 <img width="1239" alt="image" src="https://github.com/user-attachments/assets/49da3ac3-1b70-4604-b6a8-be514d2504b9">
 
