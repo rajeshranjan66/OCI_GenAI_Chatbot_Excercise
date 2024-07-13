@@ -40,8 +40,7 @@ If you face any issue while executing commands for chatbot deployment , can refe
 
 More details about 
 
-1. How to create OCI config file
-   https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How%20to%20Create%20OCI%20config%20file.md
+1. [How to create OCI config file](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How%20to%20Create%20OCI%20config%20file.md)
 
    
 3. How to create OCI VM.
