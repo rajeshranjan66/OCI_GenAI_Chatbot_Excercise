@@ -45,9 +45,9 @@ Step by step details are on below links-
    
 2. [How to create OCI VM](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How%20to%20create%20OCI%20VM.md)
    
-3. [How to deploy python code on OCI VM](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How_to_deploy_chatbot_in_OCI.md)
+3. [How to deploy chatbot python code on OCI VM](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How_to_deploy_chatbot_in_OCI.md)
 
-4. (Optional) If you want to setup your own DNS for accessing chatbot, [Click here](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/089ca612f73b669ce55062534f17532b8bae0dab/Setup_Accessing%20_Chatbot%20_using_Public_DNS.md)for setup using OCI Services like Zone, Load Balancer, Oracle VM, Instance configuration etc.
+4. (Optional) If you want to setup your own DNS for accessing chatbot via LB, [Click here](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/089ca612f73b669ce55062534f17532b8bae0dab/Setup_Accessing%20_Chatbot%20_using_Public_DNS.md)for setup using OCI Services like Zone, Load Balancer, Oracle VM, Instance configuration etc.
 
 5. (Oprional) Creating Web Applicaiton firewall with Rate limit, protection rules etc and attaching to LB. [Check out this](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/1390268247ba78ad807a7c253572351a7e9813a8/Configure_Firewall_for_LoadBalancer.md)
    
