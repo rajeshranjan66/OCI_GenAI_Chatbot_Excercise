@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/f3d90ec7-4455-4321-aa75-2f2296bd3aba)In this document  we will see how to add security controls to Load Balancer
+**In  this document we will see how to add security controls to Load Balancer**
 
-Lets start with creating firewall.
+Lets start with creating firewall and few policies which will be attached to LB.
 
 Go to Identity & Security ->Web Application Firewall -> Policies and Follow screens as per below -
 
