@@ -37,6 +37,28 @@ and create NSG called "ForLB" and add security rules as per below -
 <img width="1314" alt="image" src="https://github.com/user-attachments/assets/c2bb0934-738c-46b7-8317-c2bf8b5421d1">
 
 
+**Now we will create Instance configuration and Instance pool in public subnet to add instance pool in LB.**
+
+<img width="1251" alt="image" src="https://github.com/user-attachments/assets/0696b453-c6f6-4503-b5b3-00ef1b919785">
+
+<img width="1053" alt="image" src="https://github.com/user-attachments/assets/cc10ca25-73e3-4fae-a8b7-007d7888730c">
+
+<img width="918" alt="image" src="https://github.com/user-attachments/assets/7e56fae4-3d6f-408e-9ca3-50ae7a154077">
+
+
+Download public and private keys to connect to Oracle Instance late -
+<img width="1140" alt="image" src="https://github.com/user-attachments/assets/444f1e51-22d4-4955-aabc-fb7df7e498a2">
+
+Creating Instance Pool using instance configuration created above -
+
+
+
+
+
+
+
+
+
 
 
 
