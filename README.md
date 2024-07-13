@@ -48,7 +48,8 @@ Step by step details are on below links-
 
 4. (Optional) If you want to setup your own DNS for accessing chatbot, [Click here](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/089ca612f73b669ce55062534f17532b8bae0dab/Setup_Accessing%20_Chatbot%20_using_Public_DNS.md)for setup using OCI Services like Zone, Load Balancer, Oracle VM, Instance configuration etc.
 
-
+5. (Oprional) Creating Web Applicaiton firewall with Rate limit, protection rules etc and attaching to LB. [Check out this](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/1390268247ba78ad807a7c253572351a7e9813a8/Configure_Firewall_for_LoadBalancer.md)
+   
 References -
 
 https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm
