@@ -58,16 +58,39 @@ Select Instance config created above -
 
 <img width="1260" alt="image" src="https://github.com/user-attachments/assets/640d4f04-2678-4a3a-a30c-6fa867e527d5">
 
-Once isntance pool is created  Oracle VM will also be created, Attach instance and LB to instance pool
+Once isntance pool is created  
+Oracle VM will also be created, Deploy python code following [this document](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/4a648d14c386c1001b5f11fc0ed2ccd7f9d2fcaa/How_to_deploy_chatbot_in_OCI.md)
+Attach instance and LB to instance pool
 
 <img width="1263" alt="image" src="https://github.com/user-attachments/assets/e256562a-f0e6-4db7-93f1-49e282951046">
+
+<img width="1248" alt="image" src="https://github.com/user-attachments/assets/81c96fe4-74c1-4992-821f-39f9f042a6b8">
+
+
 Attach Instance :
 <img width="1253" alt="image" src="https://github.com/user-attachments/assets/e104b44e-62a6-496f-8b82-0217a1efc811">
 
 Attach LB :
 <img width="1277" alt="image" src="https://github.com/user-attachments/assets/01d4b1e3-860f-4750-8142-d4c1fc19c23a">
 
-![Uploading image.png…]()
+<img width="1244" alt="image" src="https://github.com/user-attachments/assets/6ba59f3e-bfeb-4eef-91c7-b804e3b3a34a">
+
+But if you see health check is failing. This is because default port for health check in LB is 80. and there is nothing running at 80 in VM.
+so update health check port in LB to 8501.
+
+<img width="1239" alt="image" src="https://github.com/user-attachments/assets/620b52a5-7284-492b-9f2d-c4274423767f">
+Add Backend in Backend set in LB - IP addreess is private IP of instance created during instance pool.
+
+<img width="1284" alt="image" src="https://github.com/user-attachments/assets/a9f8cf22-0515-4fa9-893b-c406c815e7a7">
+
+<img width="1283" alt="image" src="https://github.com/user-attachments/assets/9a6b5a86-5a68-4c16-b052-26f917af7cf0">
+
+
+Now below is how LB looks like -
+
+<img width="1250" alt="image" src="https://github.com/user-attachments/assets/9ff5ae53-66b4-4415-9bb1-444b57e85655">
+
+
 
 
 
