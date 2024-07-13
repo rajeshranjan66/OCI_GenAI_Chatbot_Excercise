@@ -34,7 +34,9 @@ Configure Listner with SSL. You need to add 3 files - 1.) Your crt file 2.) Root
 for NSG , go to Networking -> Virtual Cloud Network -> Click VCN-> select Network Security Group
 and create NSG called "ForLB" and add security rules as per below -
 
-![Uploading image.png…]()
+<img width="1314" alt="image" src="https://github.com/user-attachments/assets/c2bb0934-738c-46b7-8317-c2bf8b5421d1">
+
+
 
 
 
