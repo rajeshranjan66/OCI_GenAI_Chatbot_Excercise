@@ -21,33 +21,32 @@ https://blogs.oracle.com/oracleuniversity/post/announcing-oci-2024-generative-ai
 
 Details of the Chat bot setup and deployment-
 - OCI Gen AI API to access pre-trained LLM Model.
-- Model name - cohere.embed-english-v3.0
+- Model name for embedding is cohere.embed-english-v3.0
 - Langchan_community - LangChain is an open source modular framework for creating applications from large language models (LLMs). You can use LangChain to build chatbots, analyze text, perform Q&A from structured data, interact with APIs, and create applications that use generative AI.
 
-- LangSmith  - LangSmith uses traces to log almost every aspect of LLM runs. These include metrics such as latency, token count, price of runs, and all types of metadata. The Web 
-                   UI allows you to quickly filter runs based on error percentage, latency, date, or even by text content using natural language
+- LangSmith  - LangSmith uses traces to log almost every aspect of LLM runs. These include metrics such as latency, token count, price of runs, and all types of metadata. The Web  UI allows you to quickly filter runs based on error percentage, latency, date, or even by text content using natural language
                    
-- RAG - Used for Augmeting prompt with specific context which will be input to LLM.
+- RAG - Used for Augmeting prompt with specific context which will be input to LLM. LLM model used is cohere.command
 - Chroma DB - Its vector database, stores TOGAF PDF in terms of embedddings. when query received , get the relevant documents from vector DB and insert into prompt. Embedding model used is cohere.embed-english-v3.0
   
 This repo consits of 3 python files and pdf-doc folder. 
-demo-chroma-create.py
-demo-ou-chatbot-chroma-final.py
-LLM_GenerateJobDescription.py
+[demo-chroma-create.py](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/demo-chroma-create.py)
+[demo-ou-chatbot-chroma-final.py](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/demo-ou-chatbot-chroma-final.py)
+[LLM_GenerateJobDescription.py](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/LLM_GenerateJobDescription.py)
 
 pdf-docs folder containing PDF which will be loaded into Chroma Vector DB as embeddings and provide additonal context to LLM model.
-If you face any issue while executing commands for chatbot deployment , can refer to Command execution output file in repo.
+If you face any issue while executing commands for chatbot deployment , can refer to [Command execution output file[(https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/Command%20execution%20output)  in repo.
 
-More details about 
+Step by step details are on below links-
 
 1. [How to create OCI config file](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How%20to%20Create%20OCI%20config%20file.md)
 
    
-3. How to create OCI VM.
-   https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How%20to%20create%20OCI%20VM.md
+3. [How to create OCI VM.]
+   (https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How%20to%20create%20OCI%20VM.md)
    
-5. How to deploy python code on OCI VM.
-   https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How_to_deploy_chatbot_in_OCI.md
+5. [How to deploy python code on OCI VM.]
+   (https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How_to_deploy_chatbot_in_OCI.md)
 
 
 References -
