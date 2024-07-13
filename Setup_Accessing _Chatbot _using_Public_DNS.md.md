@@ -1,4 +1,4 @@
-**This document will cover OCI services involved in setting up access the chatbot usubg DNS instead of public IP address of VM. OCI services involved are  
+**This document will cover OCI services involved in setting up access the chatbot public DNS instead of public IP address of VM. OCI services involved are  
 Load Balancer, Instance Configuration, Instance Pooling, Network Security Group( NSG) , Security List, Oracle Instance.**
 
 
