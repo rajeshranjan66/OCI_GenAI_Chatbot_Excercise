@@ -30,6 +30,8 @@ Details of the Chat bot setup and deployment-
 - Chroma DB - Its vector database, stores TOGAF PDF in terms of embedddings. when query received , get the relevant documents from vector DB and insert into prompt. Embedding model used is cohere.embed-english-v3.0
   
 This repo consits of 3 python files and pdf-doc folder. 
+
+
 [demo-chroma-create.py](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/demo-chroma-create.py)
 
 
@@ -39,8 +41,7 @@ This repo consits of 3 python files and pdf-doc folder.
 [LLM_GenerateJobDescription.py](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/LLM_GenerateJobDescription.py)
 
 pdf-docs folder containing PDF which will be loaded into Chroma Vector DB as embeddings and provide additonal context to LLM model.
-If you face any issue while executing commands for chatbot deployment, 
-refer to [Command execution outputfile[(https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/Command%20execution%20output)  in repo.
+If you face any issue while executing commands for chatbot deployment, refer to [Command execution output file](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/Command%20execution%20output)  in repo.
 
 Step by step details are on below links-
 
