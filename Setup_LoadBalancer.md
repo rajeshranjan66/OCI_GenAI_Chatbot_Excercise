@@ -14,7 +14,7 @@ select NSG created earlier, I will share screen shots after LB is done.
 
 <img width="1145" alt="image" src="https://github.com/user-attachments/assets/36100d72-906b-4220-b437-ca84da12b38b">
 
-add Oracle VM as backend on which chatbot running on port 8501. Currently VM also in same public subnet.
+create backend set in which we will add Oracle VM as backend on which chatbot running on port 8501 later . Currently VM also in same public subnet.
 
 <img width="1239" alt="image" src="https://github.com/user-attachments/assets/57380df5-dd11-4957-8b9e-f4bef34ea709">
 
@@ -50,6 +50,37 @@ Download public and private keys to connect to Oracle Instance late -
 <img width="1140" alt="image" src="https://github.com/user-attachments/assets/444f1e51-22d4-4955-aabc-fb7df7e498a2">
 
 Creating Instance Pool using instance configuration created above -
+Click Compute -> select Instance Pools
+Select Instance config created above -
+
+<img width="1259" alt="image" src="https://github.com/user-attachments/assets/232c8b40-45f8-446a-b600-313d441b4280">
+
+
+<img width="1260" alt="image" src="https://github.com/user-attachments/assets/640d4f04-2678-4a3a-a30c-6fa867e527d5">
+
+Once isntance pool is created  Oracle VM will also be created, Attach instance and LB to instance pool
+
+<img width="1263" alt="image" src="https://github.com/user-attachments/assets/e256562a-f0e6-4db7-93f1-49e282951046">
+Attach Instance :
+<img width="1253" alt="image" src="https://github.com/user-attachments/assets/e104b44e-62a6-496f-8b82-0217a1efc811">
+
+Attach LB :
+<img width="1277" alt="image" src="https://github.com/user-attachments/assets/01d4b1e3-860f-4750-8142-d4c1fc19c23a">
+
+![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
