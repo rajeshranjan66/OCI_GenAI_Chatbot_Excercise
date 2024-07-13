@@ -1,6 +1,9 @@
-L
-Lets start witrh creating load balancer. This load balancer will be listening traffice from internet (0.0.0.0/0) on SSL port 643.
-After creating LB, will create NSG to allow port 643.
+**This document will cover OCI services involved in setting up access the chatbot usubg DNS instead of public IP address of VM. OCI services involved are  
+Load Balancer, Instance Configuration, Instance Pooling, Network Security Group( NSG) , Security List, Oracle Instance.**
+
+
+Lets start witrh creating load balancer. This load balancer will be listening traffice from internet (0.0.0.0/0) on SSL port 443.
+After creating LB, will create NSG to allow port 443.
 Go to Networking -->Load Balancers -->Load Balancer, click Create Load Balancer and follow screen
 
 <img width="1260" alt="image" src="https://github.com/user-attachments/assets/a511f492-af6e-436e-bb1f-787d2803cc72">
