@@ -20,7 +20,8 @@ create and host your own fine-tuned custom models based on your own data on dedi
 
 - LangSmith  - LangSmith uses traces to log almost every aspect of LLM runs. These include metrics such as latency, token count, price of runs, and all types of metadata. The Web  UI allows you to quickly filter runs based on error percentage, latency, date, or even by text content using natural language
                    
-- RAG - Used for Augmeting prompt with specific context which will be input to LLM. LLM model used is cohere.command
+- RAG - Used for Augmeting prompt with specific context which will be input to LLM.
+- LLM model used is cohere.command for responding to the user's query.
 - Chroma DB - Its vector database, stores TOGAF PDF in terms of embedddings. when query received , get the relevant documents from vector DB and insert into prompt. Embedding model used is cohere.embed-english-v3.0
   
 This repo consits of 3 python files and pdf-doc folder. 
