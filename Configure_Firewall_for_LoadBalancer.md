@@ -53,6 +53,46 @@ Your Protection section under policy will looks like this
 Now Let's set rate limit -
 
 
+Click on "Rate Limiting" in policy
+
+
+<img width="1641" alt="image" src="https://github.com/user-attachments/assets/6ede5bb7-098e-4b42-ba5f-40af86cf8512">
+ the clik
+
+
+<img width="1622" alt="image" src="https://github.com/user-attachments/assets/8e6f1fcf-f03e-451d-8207-6ebb0ddc943c">
+now click on "Manage rate Limiting" then add "Add rate limiting rule"
+can set how many requst allowed per how may many seconds.
+
+
+<img width="1642" alt="image" src="https://github.com/user-attachments/assets/3fdf36d6-9fad-40d2-9553-9854909fc989">
+
+Under Rule Action, select Create new  new action then under add action , select type as "Retun HTTP response".
+
+<img width="1621" alt="image" src="https://github.com/user-attachments/assets/6544167c-db5a-4607-a768-f67c0af93866">
+
+here you can add your message which will be returned when rate limit is exceeded. ( Though I did changes few times in that but no where it mentioned how this rate limit is getting applied.)
+
+Under Action in Policy.
+
+<img width="1626" alt="image" src="https://github.com/user-attachments/assets/9059bf85-2f8f-4dd8-bcab-32c3a41b699c">
+
+Click on Manage Action. 
+
+<img width="1221" alt="image" src="https://github.com/user-attachments/assets/61000332-f009-4d0c-9a2e-61388ff23b90">
+
+Click edit of last action, I want to show why error message I have configured. Same is apearing on next screenshot.
+
+<img width="1624" alt="image" src="https://github.com/user-attachments/assets/08ae7d9c-edbb-42d8-89fa-7a7462a00cb3">
+
+
+
+Below error message will appear when rate limit is breached.
+<img width="1239" alt="image" src="https://github.com/user-attachments/assets/49da3ac3-1b70-4604-b6a8-be514d2504b9">
+
+
+
+
 
 
 
