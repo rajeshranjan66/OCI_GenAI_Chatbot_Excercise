@@ -42,10 +42,10 @@ Step by step details are on below links-
 1. [How to create OCI config file](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How%20to%20Create%20OCI%20config%20file.md)
 
    
-3. [How to create OCI VM.]
+3. [How to create OCI VM]
    (https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How%20to%20create%20OCI%20VM.md)
    
-5. [How to deploy python code on OCI VM.]
+5. [How to deploy python code on OCI VM]
    (https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How_to_deploy_chatbot_in_OCI.md)
 
 
