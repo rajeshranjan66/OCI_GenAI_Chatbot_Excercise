@@ -9,6 +9,7 @@ create and host your own fine-tuned custom models based on your own data on dedi
 
 
 To learn more about OCI genAI services ,refer to this link - 
+
 https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm 
 
 
@@ -37,8 +38,21 @@ LLM_GenerateJobDescription.py
 pdf-docs folder containing PDF which will be loaded into Chroma Vector DB as embeddings and provide additonal context to LLM model.
 If you face any issue while executing commands for chatbot deployment , can refer to Command execution output file in repo.
 
+More details about 
+
+1. How to create OCI config file
+   https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How%20to%20Create%20OCI%20config%20file.md
+
+   
+3. How to create OCI VM.
+   https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How%20to%20create%20OCI%20VM.md
+   
+5. How to deploy python code on OCI VM.
+   https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How_to_deploy_chatbot_in_OCI.md
+
 
 References -
+
 https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm
 
 https://github.com/langchain-ai/langchain/blob/master/README.md
@@ -46,13 +60,10 @@ https://github.com/langchain-ai/langchain/blob/master/README.md
 https://python.langchain.com/v0.2/docs/integrations/llms/oci_generative_ai/
 
 
-
-
-
 **hit below URL in browser  - **
-http://public IP of OCI VM:8501
+http:// public IP of OCI VM:8501
 I added some more PDFs related to TOGAF, executed demo-chroma-create.py , restarted chromaDB
-I asked few question and also inputed mutil choice question and chatbot shows correct answer and PDF document with page number where it is getting context from to send to LLM. Few screenshots.
+I asked few question to chatbot and also inputed mutilple choice question and chatbot shows correct answer and PDF document with page number where it is getting context from to send to LLM. Few screenshots.
 chat history of the session will also be passed to LLM along with original prompt.
 
 <img width="1126" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/df2a1291-f8b3-408c-a406-40b1e8117a2c">
@@ -60,6 +71,7 @@ chat history of the session will also be passed to LLM along with original promp
 
 
 <img width="1162" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/3fdd104b-f0fe-4dad-b432-0a91943a5a89">
+
 
 
 <img width="1176" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/bfbac318-048f-4e05-9dc2-f2645628d0dd">
