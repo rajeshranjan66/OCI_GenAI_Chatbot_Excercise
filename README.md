@@ -31,11 +31,16 @@ Details of the Chat bot setup and deployment-
   
 This repo consits of 3 python files and pdf-doc folder. 
 [demo-chroma-create.py](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/demo-chroma-create.py)
+
+
 [demo-ou-chatbot-chroma-final.py](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/demo-ou-chatbot-chroma-final.py)
+
+
 [LLM_GenerateJobDescription.py](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/LLM_GenerateJobDescription.py)
 
 pdf-docs folder containing PDF which will be loaded into Chroma Vector DB as embeddings and provide additonal context to LLM model.
-If you face any issue while executing commands for chatbot deployment , can refer to [Command execution output file[(https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/Command%20execution%20output)  in repo.
+If you face any issue while executing commands for chatbot deployment, 
+refer to [Command execution outputfile[(https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/Command%20execution%20output)  in repo.
 
 Step by step details are on below links-
 
@@ -58,7 +63,7 @@ https://github.com/langchain-ai/langchain/blob/master/README.md
 https://python.langchain.com/v0.2/docs/integrations/llms/oci_generative_ai/
 
 
-**hit below URL in browser  - **
+**[hit below URL in browser to see how chatbot looks like](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/8401e36d1715cf96ba08fa8ecc5c545fd279ff3b/TOGAF_Chatbot_screenshot_one_session.pdf)  - **
 http:// public IP of OCI VM:8501
 I added some more PDFs related to TOGAF, executed demo-chroma-create.py , restarted chromaDB
 I asked few question to chatbot and also inputed mutilple choice question and chatbot shows correct answer and PDF document with page number where it is getting context from to send to LLM. Few screenshots.
