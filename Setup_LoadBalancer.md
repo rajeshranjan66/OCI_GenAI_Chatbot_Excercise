@@ -1,4 +1,5 @@
-Lets create load balancer. This load balancer will be listening traffice from internet (0.0.0.0/0) on SSL port 643.
+L
+Lets start witrh creating load balancer. This load balancer will be listening traffice from internet (0.0.0.0/0) on SSL port 643.
 After creating LB, will create NSG to allow port 643.
 Go to Networking -->Load Balancers -->Load Balancer, click Create Load Balancer and follow screen
 
