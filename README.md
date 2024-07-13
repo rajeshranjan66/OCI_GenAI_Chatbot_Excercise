@@ -82,6 +82,8 @@ I asked few question to chatbot and also inputed mutilple choice question and ch
 <img width="1148" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/55f9a8cc-9e9a-46da-a02a-d421dbc2062b">
 
 
+when you access from .com URL -
+<img width="1327" alt="image" src="https://github.com/user-attachments/assets/de1931dc-4047-418b-831c-5c03b04c590c">
 
 
 
