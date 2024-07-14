@@ -4,9 +4,9 @@ Assumption - you have OCI account and Oracle VM and ownload private keys to conn
 
 ** This deployment will need VM and OCI accuunt and Private key of VM from OCI account which is used to connect to VM. You may refer to below 
 
-**How to Create OCI config file.md**
+[**How to Create OCI config file.md**](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/b1622dc56886eeadeb24277e8906fefc68445a86/How%20to%20Create%20OCI%20config%20file.md)
 
-**How to create OCI VM.md** 
+[**How to create OCI VM.md**](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/b1622dc56886eeadeb24277e8906fefc68445a86/How%20to%20create%20OCI%20VM.md)
 
  Below Public and private keys will be downloaded while creating VM.
 <img width="670" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/c73f6bc2-3545-4678-ad1a-79688130b2fd">
