@@ -63,6 +63,7 @@ https://github.com/langchain-ai/langchain/blob/master/README.md
 
 https://python.langchain.com/v0.2/docs/integrations/llms/oci_generative_ai/
 
+https://streamlit.io/generative-ai
 
 **hit below URL in browser to see how chatbot looks like or [checkout some sample screens here](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/8401e36d1715cf96ba08fa8ecc5c545fd279ff3b/TOGAF_Chatbot_screenshot_one_session.pdf) **
 
