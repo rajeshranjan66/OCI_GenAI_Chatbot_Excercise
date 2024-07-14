@@ -67,10 +67,8 @@ https://python.langchain.com/v0.2/docs/integrations/llms/oci_generative_ai/
 **hit below URL in browser to see how chatbot looks like or [checkout some sample screens here](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/8401e36d1715cf96ba08fa8ecc5c545fd279ff3b/TOGAF_Chatbot_screenshot_one_session.pdf) **
 
 
-http:// public IP of OCI VM:8501
-
-I added some more PDFs related to TOGAF then executed demo-chroma-create.py , restarted chromaDB.
-I asked few question to chatbot and also inputed mutilple choice question and chatbot shows correct answer and PDF document with page number where it is getting context send to LLM. Chat history of the session will also be passed to LLM along with original prompt.
+http:// public IP of OCI VM:8501 if setup is done using above #1, #2, #3
+https:// domain name/ if #4 and #5 is also completed.
 
 
 <img width="1126" alt="image" src="https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/assets/78391124/df2a1291-f8b3-408c-a406-40b1e8117a2c">
