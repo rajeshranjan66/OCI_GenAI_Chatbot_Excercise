@@ -2,7 +2,7 @@
 
 
 
-**Virtual Assistance for TOGAF powered by OCI Gen AI Services **
+                           **Virtual Assistance for TOGAF powered by OCI Gen AI Services **
                           
 This chatbot will respond to your queries related to TOGAF10 concepts and questions related to TOGAF.
 
