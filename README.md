@@ -1,9 +1,10 @@
 **------------------Work in-progress---------------------------**
 
 
+
 **Virtual Assistance for TOGAF powered by OCI Gen AI Services **
                           
-This chatbot will respond to your queries related to TOGAF10 concepts and solve questions related to TOGAF.
+This chatbot will respond to your queries related to TOGAF10 concepts and questions related to TOGAF.
 
 
 To learn about OCI Generative AI services ,refer to [Oracle Generative AI Certification course](https://mylearn.oracle.com/ou/course/oci-generative-ai-professional/136035/2126370) I found this course very useful for certificaiton as well as learning RAG, LLM architecture , Encoding & decoding etc. 
@@ -16,14 +17,14 @@ customizable large language models (LLMs) that cover a wide range of use cases, 
 Using the OCI Generative AI service you can access ready-to-use pretrained models, or 
 create and host your own fine-tuned custom models based on your own data on dedicated AI clusters.
 
-- In this implementation TOGAF standard and additional document is stored in form of embeddings in Chroma vector database.
+- In this implementation TOGAF standard and additional documents are stored in form of embeddings in Chroma vector database.
 - OCI Gen AI API to access pre-trained LLM Model for embdedings and responding to user queries.
 - Model name for embedding is cohere.embed-english-v3.0
 - Langchan_community - LangChain is an open source modular framework for creating applications from large language models (LLMs). You can use LangChain to build chatbots, analyze text, perform Q&A from structured data, interact with APIs, and create applications that use generative AI.
 
 - LangSmith  - LangSmith uses traces to log almost every aspect of LLM runs. These include metrics such as latency, token count, price of runs, and all types of metadata. The Web  UI allows you to quickly filter runs based on error percentage, latency, date, or even by text content using natural language
                    
-- RAG - Used for Augmeting prompt with specific context which will be input to LLM.
+- RAG - Used for Augmeting prompt with specific context which will be the input to LLM.
 - LLM model used is cohere.command for responding to the user's query.
 - Chroma DB - Its vector database, stores TOGAF PDF in terms of embedddings. when query received , get the relevant documents from vector DB and insert into prompt. Embedding model used is cohere.embed-english-v3.0
   
