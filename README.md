@@ -1,4 +1,5 @@
-*************Work in-progress**************
+**------------------Work in-progress---------------------------**
+
 
 **Virtual Assistance for TOGAF powered by OCI Gen AI Services **
                           
