@@ -42,7 +42,7 @@ This repo consits of 3 python files and pdf-doc folder.
 pdf-docs folder containing PDF which will be loaded into Chroma Vector DB as embeddings and provide additonal context to LLM model.
 If you face any issue while executing commands for chatbot deployment, refer to [Command execution output file](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/Command%20execution%20output)  in repo.
 
-Step by step details are on below links-
+**Step by step details with screenshots are on below links with-in repo-**
 
 1. [How to create OCI config file](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/cb05182b29a70524c9b696c6fd05b983cbfbb228/How%20to%20Create%20OCI%20config%20file.md)
 
