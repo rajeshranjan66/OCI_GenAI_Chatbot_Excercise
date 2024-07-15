@@ -31,10 +31,10 @@ create and host your own fine-tuned custom models based on your own data on dedi
 This repo consits of 3 python files and pdf-doc folder. 
 
 
-[demo-chroma-create.py](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/demo-chroma-create.py)
+[chroma_DB_Embeddings.py](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/chroma_DB_Embeddings.py)
 
 
-[demo-ou-chatbot-chroma-final.py](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/demo-ou-chatbot-chroma-final.py)
+[chatbot_with_Chroma.py](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/chatbot_with_Chroma.py)
 
 
 [LLM_GenerateJobDescription.py](https://github.com/rajeshranjan66/OCI_GenAI_Chatbot_Excercise/blob/fdab025d4b9bc407fbea452a8d0702bd8deb1c21/Oci_GenAI_Python/LLM_GenerateJobDescription.py)
