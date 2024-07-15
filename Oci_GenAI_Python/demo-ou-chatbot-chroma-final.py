@@ -65,12 +65,14 @@ def chat(user_message):
 
 if __name__ == "__main__":
     import streamlit as st
-    st.subheader("Chatbot powered by OCI Generative AI Service")
+    st.set_page_config(page_title="TOGAF Virtual Assistant")
+    st.title("TOGAF Virtual Assistant")
+    st.subheader("Welcome to The Open Group Architecture Framework (TOGAF) Virtual Assistant")
     col1 , col2 = st.columns([4,1])
 
     user_input = st.chat_input()
     with col1:
-        col1.subheader("------Ask me a question about TOGAF------")
+        col1.subheader("*** Ask me anything about TOGAF ***")
         #col2.subheader("References")
         if "messages" not in st.session_state:
             st.session_state.messages = []
@@ -87,7 +89,3 @@ if __name__ == "__main__":
                 st.chat_message("assistant")
                 for doc in message['content']['bot_response']['source_documents']:
                     st.write("Reference: ", doc.metadata['source'] + "  \n"+ "-page->"+str(doc.metadata['page']))
-
-                    #st.write("Reference: ", doc.metadata['source'] + "  \n"+ "-page->"+str(doc.metadata['page']) +
-                    #             "  \n"+ "-relevance score->"+ str(doc.metadata['relevance_score'])
-                    #    )
