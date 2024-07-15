@@ -17,7 +17,7 @@ from uuid import uuid4
 
 unique_id = uuid4().hex[0:8]
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
-os.environ["LANGCHAIN_PROJECT"] = f"Test111 - {unique_id}"
+os.environ["LANGCHAIN_PROJECT"] = f"TOGAF_Chatbot - {unique_id}"
 os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
 os.environ["LANGCHAIN_API_KEY"] = "<<>>>>"  # Update to your API ke
 #In this demo we will explore using RetirvalQA chain to retrieve relevant documents and send these as a context in a query.
