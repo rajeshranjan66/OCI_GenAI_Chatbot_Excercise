@@ -1,4 +1,4 @@
-                          #**Building intelligent chatbot with Oracle Generative AI Service**
+                          #Building intelligent chatbot with Oracle Generative AI Service
 
                           
 This chatbot will respond to your queries related to TOGAF10 concepts and questions related to TOGAF.
