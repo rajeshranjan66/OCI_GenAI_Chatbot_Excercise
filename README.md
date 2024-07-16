@@ -1,4 +1,4 @@
-                          **------------------Work in-progress---------------------------**
+                          **Building intelligent chatbot with Oracle Generative AI Service**
 
 
 
