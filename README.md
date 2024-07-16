@@ -1,7 +1,7 @@
                           #Building intelligent chatbot with Oracle Generative AI Service
 
                           
-This chatbot will respond to your queries related to TOGAF10 concepts and questions related to TOGAF.
+This chatbot will respond to your queries  and questions related to TOGAF 10 concepts.
 
 
 To learn about OCI Generative AI services ,refer to [Oracle Generative AI Certification course](https://mylearn.oracle.com/ou/course/oci-generative-ai-professional/136035/2126370) I found this course very useful for certificaiton as well as learning RAG, LLM architecture , Encoding & decoding etc. 
