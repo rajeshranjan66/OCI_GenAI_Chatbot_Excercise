@@ -1,4 +1,4 @@
-                         ###Building intelligent chatbot with Oracle Generative AI Service and Langchain framework
+                         **Building intelligent chatbot with Oracle Generative AI Service and Langchain framework**
 
                           
 This chatbot will respond to your queries  and questions related to TOGAF 10 concepts.
@@ -23,7 +23,7 @@ create and host your own fine-tuned custom models based on your own data on dedi
                    
 - RAG - Used for Augmeting prompt with specific context which will be the input to LLM. This chatbot uses OCI Generative AI embedding 
    models together with a Cohere command pre-trained LLM to implement a RAG pattern.
-- Chroma DB - Its vector database, stores TOGAF PDF in terms of embedddings. when query received , get the relevant documents from vector DB and insert into prompt. Embedding model used is cohere.embed-english-v3.0
+- Chroma DB - Its open source vector database, stores TOGAF PDF in terms of embedddings. when query received , get the relevant documents from vector DB and insert into prompt. Embedding model used is cohere.embed-english-v3.0
   
 This repo consits of 3 python files and pdf-doc folder. 
 
