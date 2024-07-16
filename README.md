@@ -1,8 +1,5 @@
-                          **Building intelligent chatbot with Oracle Generative AI Service**
+                          #**Building intelligent chatbot with Oracle Generative AI Service**
 
-
-
-                           **Virtual Assistance for TOGAF powered by OCI Gen AI Services **
                           
 This chatbot will respond to your queries related to TOGAF10 concepts and questions related to TOGAF.
 
