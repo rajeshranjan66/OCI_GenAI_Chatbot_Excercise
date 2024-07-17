@@ -17,8 +17,8 @@ create and host your own fine-tuned custom models based on your own data on dedi
 - In this implementation TOGAF standard and additional documents are stored in form of embeddings in Chroma vector database.
 - OCI Gen AI API to access pre-trained LLM Model for embdedings and responding to user queries.
 - Model name for embedding is cohere.embed-english-v3.0
-- Langchan  - LangChain is the fastest growing open source framework for developing applications powered by large language models (LLMs). Designed with flexible code abstractions that simplify development, and packed with a comprehensive library of tools, chat utilities, data interfaces, and agent support, LangChain is redefining AI application development. 
-
+- Langchan  - An opensource framework used for developing applications powered by LLMs. LangChain provides many libraries, APIs and templates to make it easy for us to develop applications powered by LLMs. LangChain integrates with OCI services , and can be used to invoke the OCI Gen AI APIs.
+  
 - LangSmith  - LangSmith uses traces to log almost every aspect of LLM runs. These include metrics such as latency, token count, price of runs, and all types of metadata. The Web  UI allows you to quickly filter runs based on error percentage, latency, date, or even by text content using natural language
                    
 - RAG - Used for Augmeting prompt with specific context which will be the input to LLM. This chatbot uses OCI Generative AI embedding 
