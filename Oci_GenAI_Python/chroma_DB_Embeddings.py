@@ -2,8 +2,12 @@ from langchain_community.embeddings import OCIGenAIEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFDirectoryLoader
-
 from langchain_community.embeddings import CohereEmbeddings
+#The class `Chroma` was deprecated in LangChain 0.2.9 and will be removed in 0.4. An updated version of the class exists in the langchain-chroma package and should be used instead. 
+#To use it run `pip install -U langchain-chroma` and import as `from langchain_chroma import Chroma`.
+
+from langchain_chroma import Chroma 
+
 
 pdf_loader = PyPDFDirectoryLoader("./pdf-docs")
 
@@ -51,9 +55,9 @@ for batch_num in range(num_batches):
     print(start_index, end_index)
 
 #Step 4 - here we persist the collection
-db.persist()
-
-
+#In 0.4.x, Chroma no longer supports the manual persistence method, so you should not be calling it if you use newer Chroma and LC. 
+#Don't worry your data is saved the moment the docs are added to Chroma with Chroma.from_documents.
+#db.persist()
 
 
 
