@@ -9,6 +9,11 @@ To learn about OCI Generative AI services ,refer to [Oracle Generative AI Certif
 OCI GenAI Proessional certiication is free until July -2024 with 2 free attempt.[Check this blog for more details about certification details](https://blogs.oracle.com/oracleuniversity/post/announcing-oci-2024-generative-ai-professional-certification-and-course)
 
 
+Below is the architecture of the RAG based chatbot -
+
+<img width="1151" alt="image" src="https://github.com/user-attachments/assets/d5acbae3-77b1-48a2-ba34-314c90d402de">
+
+
 Oracle Cloud Infrastructure (OCI) Generative AI is a fully managed service that provides a set of state-of-the-art, 
 customizable large language models (LLMs) that cover a wide range of use cases, and which is available through a single API. 
 Using the OCI Generative AI service you can access ready-to-use pretrained models, or 
@@ -24,7 +29,7 @@ create and host your own fine-tuned custom models based on your own data on dedi
 - RAG - Used for Augmeting prompt with specific context which will be the input to LLM. This chatbot uses OCI Generative AI embedding 
    models together with a Cohere command pre-trained LLM to implement a RAG pattern.
 - Chroma DB - Its open source vector database, stores TOGAF PDF in terms of embedddings. when query received , get the relevant documents from vector DB and insert into prompt. Embedding model used is cohere.embed-english-v3.0
-  
+
 This repo consits of 3 python files and pdf-doc folder. 
 
 
