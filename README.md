@@ -6,9 +6,6 @@ This chatbot will respond to your queries  and questions related to TOGAF 10 con
 
 To learn about OCI Generative AI services ,refer to [Oracle Generative AI Certification course](https://mylearn.oracle.com/ou/course/oci-generative-ai-professional/136035/2126370) I found this course very useful for certificaiton as well as learning RAG, LLM architecture , Encoding & decoding etc. 
 
-OCI GenAI Proessional certiication is free until July -2024 with 2 free attempt.[Check this blog for more details about certification details](https://blogs.oracle.com/oracleuniversity/post/announcing-oci-2024-generative-ai-professional-certification-and-course)
-
-
 Below is the architecture of the RAG based chatbot -
 
 <img width="1151" alt="image" src="https://github.com/user-attachments/assets/d5acbae3-77b1-48a2-ba34-314c90d402de">
