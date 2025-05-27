@@ -1,15 +1,15 @@
-                      **Building a Personalized Chatbot With LangChain and Oracle Generative AI Service **
+                      **Building a Personalized RAG based Chatbot With LangChain and Oracle Generative AI Service **
 
                           
 This chatbot will respond to your queries  and questions related to TOGAF 10 concepts.
-
-
-To learn about OCI Generative AI services ,refer to [Oracle Generative AI Certification course](https://mylearn.oracle.com/ou/course/oci-generative-ai-professional/136035/2126370) I found this course very useful for certificaiton as well as learning RAG, LLM architecture , Encoding & decoding etc. 
 
 Below is the architecture of the RAG based chatbot -
 
 <img width="1151" alt="image" src="https://github.com/user-attachments/assets/d5acbae3-77b1-48a2-ba34-314c90d402de">
 
+This RAG based implementation has 2 steps-
+1. Store knowledge based document in the form of embeddinggs using in ChromaDB using PDF loader and creating chunks . In this case , I am loading TOGAF related documents.
+2. This is main flow where user enters query and expecting response.
 
 Oracle Cloud Infrastructure (OCI) Generative AI is a fully managed service that provides a set of state-of-the-art, 
 customizable large language models (LLMs) that cover a wide range of use cases, and which is available through a single API. 
